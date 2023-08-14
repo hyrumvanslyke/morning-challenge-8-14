@@ -10,4 +10,4 @@ for(let i = 0; i<n; i++){ // run loop for how many times n equals
     }
     return tower// return tower
 }
-console.log(buildTower(8))
+console.log(buildTower(8))// logged for testing
